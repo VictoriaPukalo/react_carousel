@@ -1,2 +1,0 @@
-.App{margin:0 50px}.App__inputs{display:flex;flex-direction:column;gap:10px;width:150px}.Carousel{position:relative;width:1300px}.Carousel__list{display:flex;list-style:none;overflow:hidden;padding:0}.Carousel__button{align-items:center;display:flex;gap:20px;justify-content:center;position:absolute}.Carousel__button-left,.Carousel__button-right{background-color:#0000;border:none;color:#000;cursor:pointer;font-size:15px}.Carousel__button-left.disabled,.Carousel__button-right.disabled{cursor:not-allowed;opacity:.5}
-/*# sourceMappingURL=main.d745094f.css.map*/
